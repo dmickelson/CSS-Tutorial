@@ -54,6 +54,7 @@ a:visited {
   width: 80%;
   /* Automatically apply the same margin on all sides */
   margin: auto;
+  overflow: hidden;
 }
 
 /* Global button style */
